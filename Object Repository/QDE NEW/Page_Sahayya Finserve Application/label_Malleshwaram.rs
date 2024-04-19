@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Malleshwaram</name>
+   <tag></tag>
+   <elementGuidId>9edd33c4-d4c7-4f7b-8e71-1a992df734e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='pr_id_8_list']/li/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>83806af9-68d1-4fc8-b241-5da14159f9fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> text-primary-labelColor</value>
+      <webElementGuid>5bd76513-8365-4a40-a583-9b6f606579e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Malleshwaram</value>
+      <webElementGuid>b1858d70-4ccd-4143-931b-48a194e53994</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_8_list&quot;)/li[@class=&quot;p-autocomplete-item&quot;]/div[@class=&quot;flex flex-col&quot;]/label[@class=&quot;text-primary-labelColor&quot;]</value>
+      <webElementGuid>4e91bba4-3cad-4b59-9a6b-1b07282976ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='pr_id_8_list']/li/div/label</value>
+      <webElementGuid>6a353eb7-58f5-468f-8c37-b420d52b4a2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Branch*'])[1]/following::label[1]</value>
+      <webElementGuid>4d08726e-bbcd-40c0-8d81-65f72fd5440f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Source &amp; Branch'])[1]/following::label[2]</value>
+      <webElementGuid>fd958c8a-6b83-4a12-a39d-0425ec1df8a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Malleshwaram'])[2]/preceding::label[1]</value>
+      <webElementGuid>7ea9b1bb-9706-4982-93bc-61697d96086f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mandatory'])[1]/preceding::label[2]</value>
+      <webElementGuid>a960f978-ab5b-438e-97e0-49a29b3eff58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Malleshwaram']/parent::*</value>
+      <webElementGuid>24912359-eac9-4301-8166-732cb6285f17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/label</value>
+      <webElementGuid>b1c2414e-6a12-4ec4-90e5-de159ab71c35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Malleshwaram' or . = 'Malleshwaram')]</value>
+      <webElementGuid>87ab1be8-a9c6-4cea-aba3-37afd0672b40</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

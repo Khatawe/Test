@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Address Proof Upload SAVE</name>
+   <tag></tag>
+   <elementGuidId>1563b0a2-ccfc-4249-bc2f-cadf0e173af5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pr_id_135_content']/div/div[4]/div[2]/button/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.p-dialog-content > div > div.self-center.py-3.flex.gap-5 > div:nth-child(2) > button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>27d835ed-b6b2-42ee-908e-c32762d5f131</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/Save_Image-8e728893.svg</value>
+      <webElementGuid>233c175c-52f1-4d36-a429-8e51a38b13a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>save</value>
+      <webElementGuid>e421da4a-89bd-4300-a554-178c44aa57a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_135_content&quot;)/div[@class=&quot;flex flex-col&quot;]/div[@class=&quot;self-center py-3 flex gap-5&quot;]/div[@class=&quot;flex flex-col text-xs items-center justify-center&quot;]/button[@class=&quot;w-12 h-12 cursor-pointer&quot;]/img[1]</value>
+      <webElementGuid>b6e32ee9-2f5f-4e7a-af93-c827be940087</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pr_id_135_content']/div/div[4]/div[2]/button/img</value>
+      <webElementGuid>da2ac74d-f69b-40cd-a912-d720b0797dfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='save']</value>
+      <webElementGuid>a9c7eb5e-21c8-4c0b-a3e9-0c474c35d60e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/img</value>
+      <webElementGuid>145e3bf3-c527-4b5f-9fb3-137684e0bc18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/Save_Image-8e728893.svg' and @alt = 'save']</value>
+      <webElementGuid>4d7bdfff-e66b-4d21-935b-81d0952cad10</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

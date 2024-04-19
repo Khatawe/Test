@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Ration Card</name>
+   <tag></tag>
+   <elementGuidId>237bf012-b556-48b0-b030-1a256d8a64d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[2]/main/div/div[2]/div[3]/div[2]/div[5]/div[2]/div/div/div/div/div/div[4]/div/ul/li[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.p-dropdown-item.p-highlight</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>df774b7c-6505-4820-b66d-26590deb4473</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-dropdown-item p-highlight</value>
+      <webElementGuid>98d14114-d430-4831-b072-3c0c367b18b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Ration Card</value>
+      <webElementGuid>905be51d-495a-4fa5-91b1-70ca4317da9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>be5dadc4-551f-4eff-872f-43884b0a793d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>175b5732-68cb-4aa1-9940-7925e892c87c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ration Card</value>
+      <webElementGuid>d348ce0a-40e9-4cd8-a2f2-dd0e7e2aa6d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;w-full flex overflow-hidden bg-primary-sapphireBlue-100&quot;]/div[@class=&quot;bg-primary-sapphireBlue-100 max-w-328 m-auto flex-1 h-screen overflow-hidden p-3&quot;]/main[@class=&quot;overflow-auto&quot;]/div[1]/div[@class=&quot;flex flex-col gap-5 pb-3 screen-body-scroll-qde  h-screen&quot;]/div[@class=&quot;bg-white flex flex-col gap-3 p-5 rounded-xl&quot;]/div[@class=&quot;border border-primary-sapphireBlue-600  rounded-xl p-5 flex flex-col gap-3&quot;]/div[@class=&quot;flex flex-col gap-3&quot;]/div[@class=&quot;doc-uploader&quot;]/div[@class=&quot;flex flex-col&quot;]/div[@class=&quot;w-full flex items-center justify-between&quot;]/div[@class=&quot;w-61&quot;]/div[@class=&quot;group grid&quot;]/div[@class=&quot;p-dropdown p-component p-inputwrapper p-inputwrapper-filled p-inputwrapper-focus  text-left  text-xs   px-2   !py-0.5  w-full   border   border-secondary-gray-300  rounded-md  outline-none  bg-white  focus:bg-white  focus:border-semantic-informativeAccent  focus:border focus:border-opacity-40  hover:bg-white  hover:border-primary-sapphireBlue-600  text-primary-ptext-1000  placeholder-secondary-gray-500  h-6&quot;]/div[@class=&quot;p-dropdown-panel p-component border border-t-0 border-secondary-steelBlue-300 text-primary-ptext-1000 rounded-md bg-white text-xs shadow-autoCompletePanel text-left p-connected-overlay-enter-done&quot;]/div[@class=&quot;p-dropdown-items-wrapper&quot;]/ul[@class=&quot;p-dropdown-items&quot;]/li[@class=&quot;p-dropdown-item p-highlight&quot;]</value>
+      <webElementGuid>415c70de-3a4b-4e82-a7e6-93c4b633edda</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/main/div/div[2]/div[3]/div[2]/div[5]/div[2]/div/div/div/div/div/div[4]/div/ul/li[5]</value>
+      <webElementGuid>61c8b947-19f7-4245-9743-0907858c32af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Utility Bill (Electricity Bill)'])[1]/following::li[1]</value>
+      <webElementGuid>cac53870-2595-425b-98c2-dceed76e4139</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Voter ID'])[1]/following::li[2]</value>
+      <webElementGuid>8ce4a9bf-f8dc-4901-9f6f-92abaa27475a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Request Highmark Score'])[1]/preceding::li[1]</value>
+      <webElementGuid>a8154432-aa38-4e43-a287-41a07383967d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::li[1]</value>
+      <webElementGuid>2cfad045-a599-402d-ac0a-91c105f34cd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]</value>
+      <webElementGuid>c4e44c87-0d61-4057-ae4d-6821ceb00c63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Ration Card' or . = 'Ration Card')]</value>
+      <webElementGuid>0d64a92b-6f5c-42ce-97b1-b2866d4e80b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Addressproof dropdown</name>
+   <tag></tag>
+   <elementGuidId>9c6b7b6a-30b6-44d0-b9e7-e3d18b5880a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[2]/main/div/div[2]/div[3]/div[2]/div[5]/div[2]/div/div/div/div/div/div[3]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0bdd0e51-6e2e-4961-92c5-dbfc7a506939</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-dropdown-trigger-icon p-clickable pi pi-chevron-down</value>
+      <webElementGuid>a38b1e38-60da-4d1d-8564-aae31b1adc6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;w-full flex overflow-hidden bg-primary-sapphireBlue-100&quot;]/div[@class=&quot;bg-primary-sapphireBlue-100 max-w-328 m-auto flex-1 h-screen overflow-hidden p-3&quot;]/main[@class=&quot;overflow-auto&quot;]/div[1]/div[@class=&quot;flex flex-col gap-5 pb-3 screen-body-scroll-qde  h-screen&quot;]/div[@class=&quot;bg-white flex flex-col gap-3 p-5 rounded-xl&quot;]/div[@class=&quot;border border-primary-sapphireBlue-600  rounded-xl p-5 flex flex-col gap-3&quot;]/div[@class=&quot;flex flex-col gap-3&quot;]/div[@class=&quot;doc-uploader&quot;]/div[@class=&quot;flex flex-col&quot;]/div[@class=&quot;w-full flex items-center justify-between&quot;]/div[@class=&quot;w-61&quot;]/div[@class=&quot;group grid&quot;]/div[@class=&quot;p-dropdown p-component p-inputwrapper  text-left  text-xs   px-2   !py-0.5  w-full   border   border-secondary-gray-300  rounded-md  outline-none  bg-white  focus:bg-white  focus:border-semantic-informativeAccent  focus:border focus:border-opacity-40  hover:bg-white  hover:border-primary-sapphireBlue-600  text-primary-ptext-1000  placeholder-secondary-gray-500  h-6&quot;]/div[@class=&quot;p-dropdown-trigger&quot;]/span[@class=&quot;p-dropdown-trigger-icon p-clickable pi pi-chevron-down&quot;]</value>
+      <webElementGuid>0ef06be3-6d9a-4fef-a68b-f34309809657</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/main/div/div[2]/div[3]/div[2]/div[5]/div[2]/div/div/div/div/div/div[3]/span</value>
+      <webElementGuid>0cfcb88d-ded2-4081-ae7d-1f3ebb0f5b8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div/div/div/div/div/div[3]/span</value>
+      <webElementGuid>e2b14e46-2d2e-4185-aed9-e8842b066c21</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

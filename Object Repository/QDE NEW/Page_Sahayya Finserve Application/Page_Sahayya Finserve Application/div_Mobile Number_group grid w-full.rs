@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Mobile Number_group grid w-full</name>
+   <tag></tag>
+   <elementGuidId>7e0d209a-4ff3-4ad7-bda6-cbe7e1385641</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[2]/main/div/div[2]/div[3]/div/div[3]/div/div[2]/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3ef796ae-6cac-4119-b075-b3b38a5aed34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>group grid w-full</value>
+      <webElementGuid>cc3b4f2a-bc2f-4caf-9587-54a76fd53a94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;w-full flex overflow-hidden bg-primary-sapphireBlue-100&quot;]/div[@class=&quot;bg-primary-sapphireBlue-100 max-w-328 m-auto flex-1 h-screen overflow-hidden p-3&quot;]/main[@class=&quot;overflow-auto&quot;]/div[1]/div[@class=&quot;flex flex-col gap-5 pb-3 screen-body-scroll-qde  h-screen&quot;]/div[@class=&quot;bg-white flex flex-col gap-3 p-5 rounded-xl&quot;]/div[@class=&quot;border border-primary-sapphireBlue-600  rounded-xl p-5 flex flex-col gap-3&quot;]/div[@class=&quot;-mx-5 px-5 py-3 border border-x-0&quot;]/div[@class=&quot;flex flex-col&quot;]/div[@class=&quot;flex flex-row gap-3 items-center&quot;]/div[@class=&quot;w-61&quot;]/div[@class=&quot;flex flex-col gap-1&quot;]/div[@class=&quot;text-left  text-xs  px-2  py-2  w-full   border   border-primary-gray-300  rounded-md  outline-none  bg-secondary-disabledBGColor  focus:bg-white  focus:border-primary-sapphireBlue-600  focus:border  hover:bg-white  hover:border-primary-gray-300  text-primary-gray-800  placeholder-secondary-gray-500  outline-none  bg-secondary-disabledBGColor  border-primary-gray-300  h-6    flex items-center !pt-0 !pl-0 !pb-0 !pr-0&quot;]/div[@class=&quot;group grid w-full&quot;]</value>
+      <webElementGuid>88b24a21-38c6-4831-bd26-81952306e546</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/main/div/div[2]/div[3]/div/div[3]/div/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>42a8fdae-44f9-459a-973d-dfd590360623</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile Number*'])[1]/following::div[3]</value>
+      <webElementGuid>d6606047-55ea-4fdc-bdb9-173f1bc1a2da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Mobile No.'])[1]/following::div[6]</value>
+      <webElementGuid>be693dc6-261a-4ac8-851d-54fde380cdc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Validate Mobile No.'])[1]/preceding::div[2]</value>
+      <webElementGuid>5795c044-0596-4be0-9971-d0c2b06b96bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DOB Proof *'])[1]/preceding::div[3]</value>
+      <webElementGuid>64788a43-a075-4217-9f44-9a903a46e287</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[3]/div/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>b1c3aa4d-ad5a-40d1-9be2-beae2843cf48</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

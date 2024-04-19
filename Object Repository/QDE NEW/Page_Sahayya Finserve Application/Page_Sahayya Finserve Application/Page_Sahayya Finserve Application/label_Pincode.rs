@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Pincode</name>
+   <tag></tag>
+   <elementGuidId>cdfb8e46-97b3-4df1-873e-ad2a02508e5f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='pr_id_15_list']/li/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>4153a518-65d1-4cf4-b5e8-781dd9b50789</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> text-primary-labelColor</value>
+      <webElementGuid>fd3d6837-5d27-42f7-832d-3f37dde3775c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>560025</value>
+      <webElementGuid>47829d1f-91a2-421f-897c-a74e798240be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_15_list&quot;)/li[@class=&quot;p-autocomplete-item&quot;]/div[@class=&quot;flex flex-col&quot;]/label[@class=&quot;text-primary-labelColor&quot;]</value>
+      <webElementGuid>54611ede-eac4-4357-a63f-430cf29c3247</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='pr_id_15_list']/li/div/label</value>
+      <webElementGuid>9d43c553-d50b-49b4-a339-9fae903aedf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pincode*'])[1]/following::label[1]</value>
+      <webElementGuid>497b9770-de45-489a-8781-0c651eff2af8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mandatory'])[1]/following::label[2]</value>
+      <webElementGuid>f7fc3e23-73d9-46b4-ad82-2418d3a0d59b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mandatory'])[2]/preceding::label[1]</value>
+      <webElementGuid>5102a377-6ce7-4637-ade1-3322ef834169</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='City*'])[1]/preceding::label[2]</value>
+      <webElementGuid>dbf93fbd-dc09-4427-b8c9-cb93cc017d1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='560025']/parent::*</value>
+      <webElementGuid>0bd639ef-c66e-4f5e-a4cd-27106e6c6d34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/label</value>
+      <webElementGuid>7602e566-7466-4fbb-8274-88e85ade824a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '560025' or . = '560025')]</value>
+      <webElementGuid>c7cbd416-bc8e-46a8-9b04-2bd934d22aef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

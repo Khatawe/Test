@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Loan Request Details_w-3.5 h-3.5 text-blue-500</name>
+   <tag></tag>
+   <elementGuidId>dd63ea51-b393-429e-ae0c-a9dcbef2d398</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[2]/main/div/div[2]/div/div/div/div/button/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>9b95e937-fe81-4624-8778-30a73c17748b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/Edit-d25402f3.svg</value>
+      <webElementGuid>2a581fdb-8460-4f9f-a5e1-260fcd9c65f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> w-3.5 h-3.5 text-blue-500</value>
+      <webElementGuid>44e68767-adf4-48e2-bdfe-23fdeb77ff19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Sahayya Logo</value>
+      <webElementGuid>5292c4d7-6bc9-48c1-a3de-2aac6541e4e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>44f3e1d2-d3cd-4d77-bdb9-534e1575542c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;w-full flex overflow-hidden bg-primary-sapphireBlue-100&quot;]/div[@class=&quot;bg-primary-sapphireBlue-100 max-w-328 m-auto flex-1 h-screen overflow-hidden p-3&quot;]/main[@class=&quot;overflow-auto&quot;]/div[1]/div[@class=&quot;flex flex-col gap-5 pb-3 screen-body-scroll-qde  h-screen&quot;]/div[@class=&quot;bg-white flex flex-col gap-3 p-5 rounded-xl&quot;]/div[@class=&quot;border  border-primary-ptext-500   rounded-xl p-5 gap-3 flex flex-col&quot;]/div[@class=&quot;flex items-center justify-between&quot;]/div[@class=&quot;flex items-center justify-end gap-3&quot;]/button[@class=&quot;p-button p-component  undefined&quot;]/img[@class=&quot;w-3.5 h-3.5 text-blue-500&quot;]</value>
+      <webElementGuid>f7f263a8-9d24-4f64-9997-32562584c11a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/main/div/div[2]/div/div/div/div/button/img</value>
+      <webElementGuid>e61b90fd-0369-4d2f-8049-973d3401e251</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Sahayya Logo'])[2]</value>
+      <webElementGuid>0f0daaa5-e368-4bba-96c7-022f494f5a0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/button/img</value>
+      <webElementGuid>ce6328e2-fde3-4425-b803-7eb90d429f34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/Edit-d25402f3.svg' and @alt = 'Sahayya Logo']</value>
+      <webElementGuid>bb6061b3-62a6-492d-b23d-0e5236308aa5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

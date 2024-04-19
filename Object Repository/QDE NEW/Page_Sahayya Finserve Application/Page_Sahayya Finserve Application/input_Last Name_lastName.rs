@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Last Name_lastName</name>
+   <tag></tag>
+   <elementGuidId>7a63bd69-d860-4167-af2a-d44d2aa38fa8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='lastName']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;lastName&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>1ac17f68-ad49-4160-8542-05ea5879929d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>lastName</value>
+      <webElementGuid>dbe28a7b-e44b-4755-b2a4-6774d1309008</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-inputtext p-component  text-left  text-xs  px-2  py-2  w-full   border   border-secondary-gray-300  rounded-md  outline-none  bg-white  focus:bg-white  focus:border-primary-sapphireBlue-600  focus:border  hover:bg-white  hover:border-primary-sapphireBlue-600  text-primary-ptext-1000  placeholder-secondary-gray-500  outline-none  bg-secondary-disabledBGColor  border-primary-gray-300  h-6      </value>
+      <webElementGuid>169fd83c-49c2-4061-9081-a73bb93f22e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;w-full flex overflow-hidden bg-primary-sapphireBlue-100&quot;]/div[@class=&quot;bg-primary-sapphireBlue-100 max-w-328 m-auto flex-1 h-screen overflow-hidden p-3&quot;]/main[@class=&quot;overflow-auto&quot;]/div[1]/div[@class=&quot;flex flex-col gap-5 pb-3 screen-body-scroll-qde  h-screen&quot;]/div[@class=&quot;bg-white flex flex-col gap-3 p-5 rounded-xl&quot;]/div[@class=&quot;border border-primary-sapphireBlue-600  rounded-xl p-5 flex flex-col gap-3&quot;]/div[@class=&quot;flex flex-row gap-3 w-full&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;grid grid-cols-3 gap-3 w-full&quot;]/div[6]/div[@class=&quot;group grid w-full&quot;]/input[@class=&quot;p-inputtext p-component  text-left  text-xs  px-2  py-2  w-full   border   border-secondary-gray-300  rounded-md  outline-none  bg-white  focus:bg-white  focus:border-primary-sapphireBlue-600  focus:border  hover:bg-white  hover:border-primary-sapphireBlue-600  text-primary-ptext-1000  placeholder-secondary-gray-500  outline-none  bg-secondary-disabledBGColor  border-primary-gray-300  h-6&quot;]</value>
+      <webElementGuid>d30e187c-5a9e-4675-9112-8f290c56bfb1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='lastName']</value>
+      <webElementGuid>157401c9-8899-49c1-93dd-371f932425a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/main/div/div[2]/div[3]/div/div[2]/div/div/div[6]/div/input</value>
+      <webElementGuid>3d8c2308-8f5a-4b52-b84d-4430383f633c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/input</value>
+      <webElementGuid>c031cde6-46dc-4d91-b98c-9bec7b546fbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'lastName']</value>
+      <webElementGuid>488e51f4-3796-4e8d-882b-344c8a96ae5d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

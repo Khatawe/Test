@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_City</name>
+   <tag></tag>
+   <elementGuidId>97274ef6-f36d-4249-aa75-331286e9a406</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='pr_id_16_list']/li/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>276d2d68-bdc3-4a26-b319-f9478bd22c83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> text-primary-labelColor</value>
+      <webElementGuid>b0108465-addf-4797-ae84-7084540dc4e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Khanapur, Adilabad</value>
+      <webElementGuid>7a9cd91f-2c8a-4a92-b15c-11002d3b49f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_16_list&quot;)/li[@class=&quot;p-autocomplete-item&quot;]/div[@class=&quot;flex flex-col&quot;]/label[@class=&quot;text-primary-labelColor&quot;]</value>
+      <webElementGuid>770d4802-0a95-4d33-bbdc-5dad1643a448</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='pr_id_16_list']/li/div/label</value>
+      <webElementGuid>339635aa-5447-4054-8887-2bc3b17c9555</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='City*'])[1]/following::label[1]</value>
+      <webElementGuid>04cad85f-e2f7-4f43-beaa-720a528959b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mandatory'])[2]/following::label[2]</value>
+      <webElementGuid>9f158ea2-3601-44f5-8320-89175a379684</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Khanapur, Adilabad-Telangana'])[1]/preceding::label[1]</value>
+      <webElementGuid>2145a858-d9f5-4f09-9054-aef6ec593593</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Khanapur, Belgaum'])[1]/preceding::label[2]</value>
+      <webElementGuid>f4012f55-4bac-4e0a-9962-ce26a0e805ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Khanapur, Adilabad']/parent::*</value>
+      <webElementGuid>209a858b-a0df-4f17-b782-78e8e983cb6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/label</value>
+      <webElementGuid>2b3878a9-4b5f-4ba7-8776-29d8d00bb2fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Khanapur, Adilabad' or . = 'Khanapur, Adilabad')]</value>
+      <webElementGuid>d81b18d3-9c86-4f29-aecc-38ee47e43281</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

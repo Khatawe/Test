@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img (1)</name>
+   <tag></tag>
+   <elementGuidId>0ba16b57-cf93-466d-966f-b0f6a8f394cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[2]/main/div/div/div/div[2]/div/button/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Create Icon&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>783b0de7-29dc-4dfe-bd4b-b1b6b27e4fc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/Create-cd0ce70c.svg</value>
+      <webElementGuid>7970010a-769c-4b56-aea7-347c87cb2e43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Create Icon</value>
+      <webElementGuid>53948a32-c19e-4f45-b420-2cd3e1a20d8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;w-full flex overflow-hidden bg-primary-sapphireBlue-100&quot;]/div[@class=&quot;bg-primary-sapphireBlue-100 max-w-328 m-auto flex-1 h-screen overflow-hidden p-3&quot;]/main[@class=&quot;overflow-auto&quot;]/div[@class=&quot;p-3 rounded-masterDataPageRadius bg-white flex flex-col gap-3 overflow-scroll h-screen&quot;]/div[@class=&quot;flex w-full justify-between items-center&quot;]/div[@class=&quot;flex gap-10&quot;]/div[@class=&quot;flex items-center gap-1.5 flex-col&quot;]/div[@class=&quot;flex items-center h-full&quot;]/button[@class=&quot;p-button p-component  border-primary-sapphireBlue-600  hover:border-primary-gray-800  focus:bg-primary-sapphireBlue-600  text-white  bg-primary-sapphireBlue-600  focus: border-semantic-informativeAccent  hover:bg-primary-buttonPrimaryHoverColor  shadow-iconButton  rounded-full  text-xsm  h-12  w-12  text-center  border-1.5  create-button  p-button-icon-only&quot;]/img[1]</value>
+      <webElementGuid>aa010884-c25e-48bb-b716-04c6e08cb2f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/main/div/div/div/div[2]/div/button/img</value>
+      <webElementGuid>ef01e890-b27a-48a0-a66e-9b62ecff06fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Create Icon']</value>
+      <webElementGuid>77ed6e14-d0ad-4571-a8af-6854bd6e08d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button/img</value>
+      <webElementGuid>ac527cb4-d229-4813-a803-06833fdccb27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/Create-cd0ce70c.svg' and @alt = 'Create Icon']</value>
+      <webElementGuid>f099db53-86be-42f1-8b61-26e14a75f4c3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

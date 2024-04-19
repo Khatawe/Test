@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_DOB_p-button-icon p-c pi pi-calendar</name>
+   <tag></tag>
+   <elementGuidId>7afe3deb-6555-4224-a2b9-af711c0527dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[2]/main/div/div[2]/div[3]/div/div[2]/div/div/div[8]/div/span/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-button-icon.p-c.pi.pi-calendar</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>605b136d-f951-4f4f-8100-386a85c996d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button-icon p-c pi pi-calendar</value>
+      <webElementGuid>80ea4164-2000-47d7-9cb7-c7bb9a77f5a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;w-full flex overflow-hidden bg-primary-sapphireBlue-100&quot;]/div[@class=&quot;bg-primary-sapphireBlue-100 max-w-328 m-auto flex-1 h-screen overflow-hidden p-3&quot;]/main[@class=&quot;overflow-auto&quot;]/div[1]/div[@class=&quot;flex flex-col gap-5 pb-3 screen-body-scroll-qde  h-screen&quot;]/div[@class=&quot;bg-white flex flex-col gap-3 p-5 rounded-xl&quot;]/div[@class=&quot;border border-primary-sapphireBlue-600  rounded-xl p-5 flex flex-col gap-3&quot;]/div[@class=&quot;flex flex-row gap-3 w-full&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;grid grid-cols-3 gap-3 w-full&quot;]/div[8]/div[@class=&quot;group grid&quot;]/span[@class=&quot;p-calendar p-component p-inputwrapper  text-left  !mb-1  text-xs  px-2  !py-0.5  w-full   border   border-secondary-gray-300  rounded-md  outline-none  bg-white  focus:bg-white  focus:border-semantic-informativeAccent  focus:border focus:border-opacity-40  hover:bg-white  hover:border-primary-sapphireBlue-600  text-primary-ptext-1000  placeholder-secondary-gray-500       p-calendar-w-btn p-calendar-w-btn-right&quot;]/button[@class=&quot;p-button p-component p-datepicker-trigger p-button-icon-only&quot;]/span[@class=&quot;p-button-icon p-c pi pi-calendar&quot;]</value>
+      <webElementGuid>a675a55e-7277-4dcb-bd8c-3ee0094ad1e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/main/div/div[2]/div[3]/div/div[2]/div/div/div[8]/div/span/button/span</value>
+      <webElementGuid>469053c0-ca00-4f99-99c7-528377a3ff15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/button/span</value>
+      <webElementGuid>8c0042b3-8ab0-4782-8e5c-fae465f32c6b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

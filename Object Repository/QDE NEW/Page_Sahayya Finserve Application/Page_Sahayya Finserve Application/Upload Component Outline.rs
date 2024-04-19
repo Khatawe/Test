@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Upload Component Outline</name>
+   <tag></tag>
+   <elementGuidId>44d39e1a-4d5b-4ad3-b3b3-51bf3698ffe7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[2]/main/div/div[2]/div[2]/div[2]/div/div/div/div[3]/div[2]/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f2ecd276-fce4-42ae-8595-bf654fe7fb77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-25 h-25 flex items-center justify-center bg-primary-ptext-200 border border-primary-ptext-600 rounded-xl cursor-pointer </value>
+      <webElementGuid>06da86e0-39c9-42c2-a5df-3abf7c18b292</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;w-full flex overflow-hidden bg-primary-sapphireBlue-100&quot;]/div[@class=&quot;bg-primary-sapphireBlue-100 max-w-328 m-auto flex-1 h-screen overflow-hidden p-3&quot;]/main[@class=&quot;overflow-auto&quot;]/div[1]/div[@class=&quot;flex flex-col gap-5 pb-3 screen-body-scroll-qde  h-screen&quot;]/div[@class=&quot;bg-white flex flex-col gap-3 p-5 rounded-xl&quot;]/div[@class=&quot;grid grid-cols-2 gap-5&quot;]/div[1]/div[@class=&quot;w-full h-full&quot;]/div[@class=&quot;border border-primary-ptext-500 rounded-xl p-5 flex flex-col gap-3 text-xs&quot;]/div[@class=&quot;flex flex-col gap-2&quot;]/div[@class=&quot;flex justify-start h-32.5&quot;]/div[@class=&quot;flex gap-x-6 overflow-x-auto custom-kyc-doc-scroll&quot;]/div[@class=&quot;flex flex-col relative max-w-fit&quot;]/div[@class=&quot;flex flex-col items-center gap-1&quot;]/div[@class=&quot;w-25 h-25 flex items-center justify-center bg-primary-ptext-200 border border-primary-ptext-600 rounded-xl cursor-pointer&quot;]</value>
+      <webElementGuid>6c08b7b9-93be-4ded-ac67-57628dde9480</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/main/div/div[2]/div[2]/div[2]/div/div/div/div[3]/div[2]/div/div/div/div</value>
+      <webElementGuid>c15a5abf-2bb7-4954-bd96-f9d2297fc0fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attach Documents (PDF, JPG, JPEG or PNG)'])[1]/following::div[5]</value>
+      <webElementGuid>31e02934-c96d-4cea-9816-1461b94113f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PAN'])[2]/following::div[8]</value>
+      <webElementGuid>a86a28b4-05c4-4e39-a363-ff27a591bbbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Populate with OCR'])[1]/preceding::div[2]</value>
+      <webElementGuid>2eec4c6d-28d3-4608-a0ba-8159ae6a1d42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[3]/div[2]/div/div/div/div</value>
+      <webElementGuid>65f695af-66e5-4f07-ae4c-e53a252f0104</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

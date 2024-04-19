@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_1_2</name>
+   <tag></tag>
+   <elementGuidId>afd5e616-ff9b-47f3-938c-af382198fc9c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pr_id_127_content']/div/div[4]/div/div/button/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>01b2c181-155b-4e8d-86b0-348d90c73f4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/Cancel-f3b63ac5.svg</value>
+      <webElementGuid>7a4ebf1c-d2df-4a20-a98c-56d3db1f0eff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Cancel Icon</value>
+      <webElementGuid>56d2d409-78fb-46e3-86db-f836b2bf6550</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_127_content&quot;)/div[@class=&quot;flex flex-col&quot;]/div[@class=&quot;flex gap-6 items-center justify-center text-xs text-primary-ptext-1000 select-none&quot;]/div[@class=&quot;flex items-center gap-1.5 flex-col&quot;]/div[@class=&quot;flex items-center h-full&quot;]/button[@class=&quot;p-button p-component  hover:border-primary-gray-300  text-semantic-negative-600  shadow-iconButton  bg-white   border border-secondary-gray-300  focus:white  focus:border-2 focus:border-semantic-informativeAccent  hover:bg-primary-tableRowColor  rounded-full  text-xsm  h-12  w-12  text-center  border-1.5    p-button-icon-only&quot;]/img[1]</value>
+      <webElementGuid>ff99eb2c-ada0-4d09-b536-a6bffa9ccb61</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pr_id_127_content']/div/div[4]/div/div/button/img</value>
+      <webElementGuid>bb32d046-8065-478a-b892-0c49c28b8c2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Cancel Icon'])[2]</value>
+      <webElementGuid>778bbc06-8aa9-454d-a0fb-576d3f05a1cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[4]/div/div/button/img</value>
+      <webElementGuid>a6a5dc91-b115-43f1-a154-454f7964fc1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/Cancel-f3b63ac5.svg' and @alt = 'Cancel Icon']</value>
+      <webElementGuid>8a5b3bf9-d9df-43df-bb8f-971c1ddaad10</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

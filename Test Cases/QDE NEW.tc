@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>QDE NEW</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>663d7d46-5d13-474c-9b95-6bfc2865b035</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>36d6c977-926f-42f5-90ec-c150826642c2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\LENOVO\\\\Desktop\\\\ss\\\\NewPan.png'</defaultValue>
+      <description></description>
+      <id>36d6c977-926f-42f5-90ec-c150826642c2</id>
+      <masked>false</masked>
+      <name>File</name>
+   </variable>
+</TestCaseEntity>

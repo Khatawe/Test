@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Map enter location</name>
+   <tag></tag>
+   <elementGuidId>1d752299-ec05-446c-bf15-392f7cf04ba0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>.p-dialog-default p-dialog-enter-done/div/div[1]/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.p-dialog-content > div > div.places-container > input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>95619099-3dd4-4979-b12b-c27cd51917e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pac-target-input</value>
+      <webElementGuid>fac0d606-ecbe-43ea-bf26-9b11b23f09dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter a location</value>
+      <webElementGuid>9541d826-1ca6-4103-9f14-55251a67daae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>ea424eab-f91e-4d2e-bfca-b85f7cf40279</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_230_content&quot;)/div[@class=&quot;flex flex-col gap-4 relative&quot;]/div[@class=&quot;places-container&quot;]/input[@class=&quot;pac-target-input&quot;]</value>
+      <webElementGuid>deadcae1-18ef-4eda-be70-8b73cd0fe7df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pr_id_230_content']/div/div/input</value>
+      <webElementGuid>f92c99d7-f26f-48c0-9b4e-788bb7d84165</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div/input</value>
+      <webElementGuid>03c5308a-0798-4377-95bc-7f743282cbbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Enter a location']</value>
+      <webElementGuid>a7f9cf38-c9c8-4ff4-8f6e-2091d05703f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

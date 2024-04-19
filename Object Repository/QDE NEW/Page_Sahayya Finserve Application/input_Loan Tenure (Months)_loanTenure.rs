@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Loan Tenure (Months)_loanTenure</name>
+   <tag></tag>
+   <elementGuidId>bb871342-83e5-4ca8-931b-efe9425b458f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='loanTenure']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;loanTenure&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>10edbe41-78d7-455d-8795-7426bdf01da6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>loanTenure</value>
+      <webElementGuid>4564267a-85b9-493d-9c0e-05b60a32e24c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-inputtext p-component  text-left  text-xs  px-2  py-2  w-full   border   border-secondary-gray-300  rounded-md  outline-none  bg-white  focus:bg-white  focus:border-primary-sapphireBlue-600  focus:border  hover:bg-white  hover:border-primary-sapphireBlue-600  text-primary-ptext-1000  placeholder-secondary-gray-500  outline-none  bg-secondary-disabledBGColor  border-primary-gray-300  h-6  text-right    </value>
+      <webElementGuid>493873db-6bde-4907-aba7-bb95d3e63e04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;w-full flex overflow-hidden bg-primary-sapphireBlue-100&quot;]/div[@class=&quot;bg-primary-sapphireBlue-100 max-w-328 m-auto flex-1 h-screen overflow-hidden p-3&quot;]/main[@class=&quot;overflow-auto&quot;]/div[1]/div[@class=&quot;flex flex-col gap-5 pb-3 screen-body-scroll-qde  h-screen&quot;]/div[@class=&quot;bg-white flex flex-col gap-3 p-5 rounded-xl&quot;]/div[@class=&quot;border  border-primary-sapphireBlue-600    rounded-xl p-5 gap-3 flex flex-col&quot;]/div[@class=&quot;grid grid-cols-4 gap-3&quot;]/div[1]/div[@class=&quot;group grid w-full&quot;]/input[@class=&quot;p-inputtext p-component  text-left  text-xs  px-2  py-2  w-full   border   border-secondary-gray-300  rounded-md  outline-none  bg-white  focus:bg-white  focus:border-primary-sapphireBlue-600  focus:border  hover:bg-white  hover:border-primary-sapphireBlue-600  text-primary-ptext-1000  placeholder-secondary-gray-500  outline-none  bg-secondary-disabledBGColor  border-primary-gray-300  h-6  text-right&quot;]</value>
+      <webElementGuid>a11e0529-04ee-40e1-940a-b17a905e0e8a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='loanTenure']</value>
+      <webElementGuid>fd0766aa-8b1d-4da6-b90e-28cd6cc7f345</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/main/div/div[2]/div/div/div[3]/div/div/input</value>
+      <webElementGuid>6385779f-7081-4e5a-b583-2e46f42fcc6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/input</value>
+      <webElementGuid>01ae2e22-b103-4300-9996-3711839a6efc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'loanTenure']</value>
+      <webElementGuid>affe0dda-af4e-45f0-b597-5298322459b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

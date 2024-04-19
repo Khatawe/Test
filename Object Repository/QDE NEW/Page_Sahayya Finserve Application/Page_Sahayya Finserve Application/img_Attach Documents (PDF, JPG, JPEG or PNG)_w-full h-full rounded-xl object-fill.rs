@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Attach Documents (PDF, JPG, JPEG or PNG)_w-full h-full rounded-xl object-fill</name>
+   <tag></tag>
+   <elementGuidId>29afeb42-807b-481e-ba6a-3b92930a5935</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[2]/main/div/div[2]/div[2]/div[2]/div/div/div/div[3]/div[2]/div/div/div/div/div/button/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#root > div.w-full.flex.overflow-hidden.bg-primary-sapphireBlue-100 > div.bg-primary-sapphireBlue-100.max-w-328.m-auto.flex-1.h-screen.overflow-hidden.p-3 > main > div > div.flex.flex-col.gap-5.pb-3.screen-body-scroll-qde.h-screen > div:nth-child(2) > div.grid.grid-cols-2.gap-5 > div > div > div > div.flex.flex-col.gap-2 > div.flex.justify-start.h-32\.5 > div > div > div.flex.flex-col.items-center.gap-1 > div > div > button > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>32e639cb-fb50-4993-ae22-7b85d1274d76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full h-full rounded-xl object-fill</value>
+      <webElementGuid>df119a17-3281-4c33-b9a5-10fba5866bcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cdn.dev.web-devapp.com/image/1706194782758_9ka8q6.jpeg?Expires=1706195147&amp;Key-Pair-Id=KIJFT50SET29N&amp;Signature=g9He6RN4Q~GzN2flnVJcWo~9ipUgCjI3Pl0wR73RUCOFSttoRbmwvAIH-5lvV2tvFbeKivP5tb-xHXplQLNw7LI4uSf1~UXpH4fhKjgqG93BUz8uftE1cs0ibQBAoa56ATUUvuJz9qhs7~hxd01p0voFC1iFZC6uslAod8aoqxwBidrLPm2NBVlmQVeETBp3tv5w5iCztPkzuah-D2-iI7CWbhjgKTBfllifO0k2V1dO0JEkFn4fiwFagHSvkLTW~r8OMKMP056CEPB2jZNbqirQbKpPvcHbeNMlS85YrPdTh0gWGHclucWnFKfX6DUUUP44SZO2aMGolxC4Msw5Ww__</value>
+      <webElementGuid>987e243f-85dc-4617-9d18-aaa635c8a297</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>image-preview</value>
+      <webElementGuid>05934e5d-4770-45dd-8d6c-9425e57d389c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;w-full flex overflow-hidden bg-primary-sapphireBlue-100&quot;]/div[@class=&quot;bg-primary-sapphireBlue-100 max-w-328 m-auto flex-1 h-screen overflow-hidden p-3&quot;]/main[@class=&quot;overflow-auto&quot;]/div[1]/div[@class=&quot;flex flex-col gap-5 pb-3 screen-body-scroll-qde  h-screen&quot;]/div[@class=&quot;bg-white flex flex-col gap-3 p-5 rounded-xl&quot;]/div[@class=&quot;grid grid-cols-2 gap-5&quot;]/div[1]/div[@class=&quot;w-full h-full&quot;]/div[@class=&quot;border border-primary-sapphireBlue-600 rounded-xl p-5 flex flex-col gap-3 text-xs&quot;]/div[@class=&quot;flex flex-col gap-2&quot;]/div[@class=&quot;flex justify-start h-32.5&quot;]/div[@class=&quot;flex gap-x-6 overflow-x-auto custom-kyc-doc-scroll&quot;]/div[@class=&quot;flex flex-col relative max-w-fit&quot;]/div[@class=&quot;flex flex-col items-center gap-1&quot;]/div[@class=&quot;w-25 h-25 flex cursor-pointer select-none&quot;]/div[@class=&quot;w-full flex justify-center&quot;]/button[@class=&quot;w-full border border-primary-ptext-600 rounded-xl&quot;]/img[@class=&quot;w-full h-full rounded-xl object-fill&quot;]</value>
+      <webElementGuid>beb72146-bb54-4ea3-8baf-a973051ae450</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/main/div/div[2]/div[2]/div[2]/div/div/div/div[3]/div[2]/div/div/div/div/div/button/img</value>
+      <webElementGuid>18ea8770-e423-41f9-b427-1ba474d22969</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='image-preview']</value>
+      <webElementGuid>e65da444-264b-4325-a296-1e97f31ac3e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/button/img</value>
+      <webElementGuid>03f4f208-a2fd-4ce3-bc12-881dd2e36c04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://cdn.dev.web-devapp.com/image/1706194782758_9ka8q6.jpeg?Expires=1706195147&amp;Key-Pair-Id=KIJFT50SET29N&amp;Signature=g9He6RN4Q~GzN2flnVJcWo~9ipUgCjI3Pl0wR73RUCOFSttoRbmwvAIH-5lvV2tvFbeKivP5tb-xHXplQLNw7LI4uSf1~UXpH4fhKjgqG93BUz8uftE1cs0ibQBAoa56ATUUvuJz9qhs7~hxd01p0voFC1iFZC6uslAod8aoqxwBidrLPm2NBVlmQVeETBp3tv5w5iCztPkzuah-D2-iI7CWbhjgKTBfllifO0k2V1dO0JEkFn4fiwFagHSvkLTW~r8OMKMP056CEPB2jZNbqirQbKpPvcHbeNMlS85YrPdTh0gWGHclucWnFKfX6DUUUP44SZO2aMGolxC4Msw5Ww__' and @alt = 'image-preview']</value>
+      <webElementGuid>91e5dded-73e0-46c5-a18c-92d5fba43367</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

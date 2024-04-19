@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Loan Amount()_loanAmount</name>
+   <tag></tag>
+   <elementGuidId>95415058-0ee7-425a-a78e-974ffd8473a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='loanAmount']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;loanAmount&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>54eabbe7-e21e-4a1c-8a15-93e2480a3906</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>loanAmount</value>
+      <webElementGuid>557744e2-567b-4bea-8be3-dedf15a3b16e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-inputtext p-component  text-left  text-xs  px-2  py-2  w-full   border   border-secondary-gray-300  rounded-md  outline-none  bg-white  focus:bg-white  focus:border-primary-sapphireBlue-600  focus:border  hover:bg-white  hover:border-primary-sapphireBlue-600  text-primary-ptext-1000  placeholder-secondary-gray-500  outline-none  bg-secondary-disabledBGColor  border-primary-gray-300  h-6  text-right    </value>
+      <webElementGuid>7352aa26-b241-4d3f-8c1d-1d93e90854db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;w-full flex overflow-hidden bg-primary-sapphireBlue-100&quot;]/div[@class=&quot;bg-primary-sapphireBlue-100 max-w-328 m-auto flex-1 h-screen overflow-hidden p-3&quot;]/main[@class=&quot;overflow-auto&quot;]/div[1]/div[@class=&quot;flex flex-col gap-5 pb-3 screen-body-scroll-qde  h-screen&quot;]/div[@class=&quot;bg-white flex flex-col gap-3 p-5 rounded-xl&quot;]/div[@class=&quot;border  border-primary-sapphireBlue-600    rounded-xl p-5 gap-3 flex flex-col&quot;]/div[@class=&quot;grid grid-cols-4 gap-3&quot;]/div[2]/div[@class=&quot;group grid w-full&quot;]/input[@class=&quot;p-inputtext p-component  text-left  text-xs  px-2  py-2  w-full   border   border-secondary-gray-300  rounded-md  outline-none  bg-white  focus:bg-white  focus:border-primary-sapphireBlue-600  focus:border  hover:bg-white  hover:border-primary-sapphireBlue-600  text-primary-ptext-1000  placeholder-secondary-gray-500  outline-none  bg-secondary-disabledBGColor  border-primary-gray-300  h-6  text-right&quot;]</value>
+      <webElementGuid>525a679a-618f-448f-9b1f-5bce7d6d1463</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='loanAmount']</value>
+      <webElementGuid>1dc7eb16-c7e2-479c-aea9-89c55b0a7c89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/main/div/div[2]/div/div/div[2]/div[2]/div/input</value>
+      <webElementGuid>2b6496c0-e86c-4e68-a573-4e55c512f68d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/input</value>
+      <webElementGuid>95b107f8-ffc9-411d-b396-d10f8ae3c2fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'loanAmount']</value>
+      <webElementGuid>79e0cc3b-f005-47fd-8185-0a3e95bb8fd5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_17</name>
+   <tag></tag>
+   <elementGuidId>c0d819e2-00d9-4464-9fca-b014b59e74bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::span[20]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(3) > td:nth-of-type(6) > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a7a03375-1262-4dfd-a6f8-3d4c92f24af2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>17</value>
+      <webElementGuid>b66ac024-b9f8-402a-abfc-53eae2f43796</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;p-datepicker p-component border p-2 rounded-lg  border-inputBorderColor bg-white text-inputTextColor&quot;]/div[@class=&quot;p-datepicker-group-container&quot;]/div[@class=&quot;p-datepicker-group&quot;]/div[@class=&quot;p-datepicker-calendar-container&quot;]/table[@class=&quot;p-datepicker-calendar&quot;]/tbody[1]/tr[3]/td[6]/span[1]</value>
+      <webElementGuid>f13ef853-b46c-42e0-b769-8d7c3310b583</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::span[20]</value>
+      <webElementGuid>d48e02a7-30c6-4d6f-b297-6ea1683abaa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fr'])[1]/following::span[21]</value>
+      <webElementGuid>3395d241-63a4-4b7a-8dc9-490cf9ea2d11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='17']/parent::*</value>
+      <webElementGuid>b45d47d6-3639-4468-88fe-795d13f0ce2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[6]/span</value>
+      <webElementGuid>9e0cabc8-3c3a-4554-b670-fe4f7a1fae0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '17' or . = '17')]</value>
+      <webElementGuid>2cada83d-5c97-4b15-9d46-7b297e84ebf0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

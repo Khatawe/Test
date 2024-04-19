@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Request Highmark Score_p-datepicker-pr_826a36</name>
+   <tag></tag>
+   <elementGuidId>66622905-540b-44ba-aee8-19ff122771f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/div/div/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-datepicker-prev-icon.pi.pi-chevron-left</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>81fa9c09-142c-4b01-a50b-d987125fd92b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-datepicker-prev-icon pi pi-chevron-left</value>
+      <webElementGuid>332675c8-733a-4e4c-8e80-367471f63f5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;p-datepicker p-component border p-2 rounded-lg border-inputBorderColor bg-white text-inputTextColor p-connected-overlay-enter-done&quot;]/div[@class=&quot;p-datepicker-group-container&quot;]/div[@class=&quot;p-datepicker-group&quot;]/div[@class=&quot;p-datepicker-header&quot;]/button[@class=&quot;p-datepicker-prev&quot;]/span[@class=&quot;p-datepicker-prev-icon pi pi-chevron-left&quot;]</value>
+      <webElementGuid>9621a7c5-cbc5-4a10-9ef7-ee1fed455a8a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/button/span</value>
+      <webElementGuid>5ab56705-db8f-4227-bb64-f1a3809b5367</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

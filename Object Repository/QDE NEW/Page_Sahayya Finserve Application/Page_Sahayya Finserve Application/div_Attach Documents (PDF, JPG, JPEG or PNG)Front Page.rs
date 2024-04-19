@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Attach Documents (PDF, JPG, JPEG or PNG)Front Page</name>
+   <tag></tag>
+   <elementGuidId>147f7c07-4588-4ee7-8dae-9e303e346702</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[2]/main/div/div[2]/div[2]/div[2]/div/div/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.flex-col.gap-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>49991abe-0ef6-4d16-a6e5-22da65eb5c02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex flex-col gap-2</value>
+      <webElementGuid>fb38b343-f0af-4d57-93cd-98dc8d55bf5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Attach Documents (PDF, JPG, JPEG or PNG)Front Page</value>
+      <webElementGuid>f7e3ea5d-dd31-4f06-86c6-dd02d8bf8f29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;w-full flex overflow-hidden bg-primary-sapphireBlue-100&quot;]/div[@class=&quot;bg-primary-sapphireBlue-100 max-w-328 m-auto flex-1 h-screen overflow-hidden p-3&quot;]/main[@class=&quot;overflow-auto&quot;]/div[1]/div[@class=&quot;flex flex-col gap-5 pb-3 screen-body-scroll-qde  h-screen&quot;]/div[@class=&quot;bg-white flex flex-col gap-3 p-5 rounded-xl&quot;]/div[@class=&quot;grid grid-cols-2 gap-5&quot;]/div[1]/div[@class=&quot;w-full h-full&quot;]/div[@class=&quot;border border-primary-ptext-500 rounded-xl p-5 flex flex-col gap-3 text-xs&quot;]/div[@class=&quot;flex flex-col gap-2&quot;]</value>
+      <webElementGuid>19badee0-3ec1-4772-ad0f-5c989927c4a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/main/div/div[2]/div[2]/div[2]/div/div/div/div[3]</value>
+      <webElementGuid>87e5d2cd-2a4f-45b2-9f84-cfc4fdf005d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PAN'])[2]/following::div[2]</value>
+      <webElementGuid>d200fd52-21da-44cf-8102-b2492e219f21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KYC Documents'])[1]/following::div[19]</value>
+      <webElementGuid>859da982-b310-4ea4-ba3d-4d41f74754ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Populate with OCR'])[1]/preceding::div[8]</value>
+      <webElementGuid>596648d8-9b66-4f0d-8cf0-2e4b0e8ca8d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div[3]</value>
+      <webElementGuid>adcc21c3-47b6-4795-b158-d7a21875366c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Attach Documents (PDF, JPG, JPEG or PNG)Front Page' or . = 'Attach Documents (PDF, JPG, JPEG or PNG)Front Page')]</value>
+      <webElementGuid>90596551-9e7d-4bee-815e-986c4a6aa971</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

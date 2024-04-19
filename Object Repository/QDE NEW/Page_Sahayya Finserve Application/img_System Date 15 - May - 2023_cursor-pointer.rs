@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_System Date 15 - May - 2023_cursor-pointer</name>
+   <tag></tag>
+   <elementGuidId>6c107871-0710-4f96-a50d-693acdedd78e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div[3]/div[2]/div/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.cursor-pointer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>9cc440e3-3f08-4957-9950-62580bf42c96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/Profile-097425ce.svg</value>
+      <webElementGuid>0b4d5b34-01d8-4ed3-8ce4-ddf9c07ab94e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Home Icon</value>
+      <webElementGuid>ea439522-6389-43b0-9e70-112ce0e2664f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cursor-pointer</value>
+      <webElementGuid>a45e8ff8-6728-41d2-b6b7-6ef0bd21e119</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;w-full flex overflow-hidden bg-primary-sapphireBlue-100&quot;]/div[@class=&quot;bg-primary-sapphireBlue-100 max-w-328 m-auto flex-1 h-screen overflow-hidden p-3&quot;]/div[@class=&quot;flex flex-col pb-3 gap-3&quot;]/div[@class=&quot;w-full flex flex-row items-center justify-between h-9&quot;]/div[@class=&quot;flex items-center&quot;]/button[2]/img[@class=&quot;cursor-pointer&quot;]</value>
+      <webElementGuid>2d4b6057-f6c0-4ff6-95b7-c60854718718</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/div/div/div/button[2]/img</value>
+      <webElementGuid>0ea9640a-5388-4741-b79b-b34af008819d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Home Icon'])[3]</value>
+      <webElementGuid>954dc2fe-1beb-4295-9ada-deae59fb6d8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/img</value>
+      <webElementGuid>2993f300-5b49-40ae-9d68-1c1c94b5e8c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/Profile-097425ce.svg' and @alt = 'Home Icon']</value>
+      <webElementGuid>087a51c7-b30b-4376-ac2e-fd623dcd8fd8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

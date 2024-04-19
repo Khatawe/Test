@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Type of residential Addr</name>
+   <tag></tag>
+   <elementGuidId>f2efb43c-2eb1-4a46-ae0a-ebf8fc265576</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[2]/main/div/div[2]/div[3]/div[2]/div[2]/div[2]/div/div[4]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>91cddf55-1f81-41b6-a578-5fa4ffbb8283</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-dropdown p-component p-inputwrapper  text-left  text-xs   px-2   !py-0.5  w-full   border   border-primary-errorColor  rounded-md  outline-none  bg-white  focus:bg-white  focus:border-primary-red-600  focus:border focus:border-opacity-40  hover:bg-white  hover:border-primary-red-800  text-primary-navy-800  placeholder-secondary-gray-500  h-6      </value>
+      <webElementGuid>f1faf302-c144-41ee-91b8-4d865664e09d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>empty</value>
+      <webElementGuid>26b94fca-6b83-4f1f-b464-e2cc6ba2b4aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;w-full flex overflow-hidden bg-primary-sapphireBlue-100&quot;]/div[@class=&quot;bg-primary-sapphireBlue-100 max-w-328 m-auto flex-1 h-screen overflow-hidden p-3&quot;]/main[@class=&quot;overflow-auto&quot;]/div[1]/div[@class=&quot;flex flex-col gap-5 pb-3 screen-body-scroll-qde  h-screen&quot;]/div[@class=&quot;bg-white flex flex-col gap-3 p-5 rounded-xl&quot;]/div[@class=&quot;border border-primary-sapphireBlue-600  rounded-xl p-5 flex flex-col gap-3&quot;]/div[@class=&quot;grid grid-cols-4 gap-2&quot;]/div[@class=&quot;col-span-3&quot;]/div[@class=&quot;grid grid-cols-3 gap-2&quot;]/div[@class=&quot;col-span-1&quot;]/div[@class=&quot;group grid&quot;]/div[@class=&quot;p-dropdown p-component p-inputwrapper  text-left  text-xs   px-2   !py-0.5  w-full   border   border-primary-errorColor  rounded-md  outline-none  bg-white  focus:bg-white  focus:border-primary-red-600  focus:border focus:border-opacity-40  hover:bg-white  hover:border-primary-red-800  text-primary-navy-800  placeholder-secondary-gray-500  h-6&quot;]</value>
+      <webElementGuid>79b399e2-9892-47ee-a655-5fa188d57e1d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/main/div/div[2]/div[3]/div[2]/div[2]/div[2]/div/div[4]/div/div</value>
+      <webElementGuid>764c6b2c-d553-48c7-8760-28520f7ace37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type of Residential Address*'])[1]/following::div[1]</value>
+      <webElementGuid>56adb85d-d25d-4fe9-bb71-89878a626c7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='State*'])[1]/following::div[4]</value>
+      <webElementGuid>87e79864-0d07-4365-a2ef-12e533bd2515</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mandatory'])[4]/preceding::div[4]</value>
+      <webElementGuid>eec6ede2-64fd-48c9-9183-8a91bfc82d01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[4]/div/div</value>
+      <webElementGuid>559531b9-3f8d-4898-8cf5-d39f138299f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'empty' or . = 'empty')]</value>
+      <webElementGuid>daf7bcb7-a273-4d2b-bd4b-61827095606f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

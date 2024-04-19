@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>QDE Final SAVE</name>
+   <tag></tag>
+   <elementGuidId>395365e5-5947-4f3b-a9a5-800652873b9c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[2]/main/div/div/div/div[2]/div/div/button/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Save Icon&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>91dbedf2-963e-47f1-936a-78746efa6e40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/Save-df37c142.svg</value>
+      <webElementGuid>08c9c676-add1-428d-ab38-9b07cfc96f99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Save Icon</value>
+      <webElementGuid>c33e6cc3-dbd2-4a28-b8ca-b2a3326a4bfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;w-full flex overflow-hidden bg-primary-sapphireBlue-100&quot;]/div[@class=&quot;bg-primary-sapphireBlue-100 max-w-328 m-auto flex-1 h-screen overflow-hidden p-3&quot;]/main[@class=&quot;overflow-auto&quot;]/div[1]/div[@class=&quot;flex flex-row justify-between items-center mb-4 px-5&quot;]/div[@class=&quot;flex gap-10&quot;]/div[@class=&quot;flex gap-5&quot;]/div[@class=&quot;flex items-center gap-1.5 flex-col&quot;]/div[@class=&quot;flex items-center h-full&quot;]/button[@class=&quot;p-button p-component  hover:border-primary-gray-300  text-primary-sapphireBlue-600  shadow-iconButton  bg-white   border border-secondary-gray-300  focus:white  focus:border-2 focus:border-semantic-informativeAccent  hover:bg-primary-tableRowColor  rounded-full  text-xsm  h-12  w-12  text-center  border-1.5    p-button-icon-only&quot;]/img[1]</value>
+      <webElementGuid>7d58dd82-6b7c-4eda-b812-d54468b517a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/main/div/div/div/div[2]/div/div/button/img</value>
+      <webElementGuid>e3550cec-49b0-4596-9fc4-8d656ffcb624</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Save Icon']</value>
+      <webElementGuid>c50e305f-147c-4c7f-a81e-7714070ec1f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/div/div/button/img</value>
+      <webElementGuid>582c6d83-016a-424d-a596-a2351951c5c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/Save-df37c142.svg' and @alt = 'Save Icon']</value>
+      <webElementGuid>a9628033-e22b-424d-84ce-3b0565ee4953</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

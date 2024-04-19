@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_LoginIf you have a sahayya.com email ID_ffcd61</name>
+   <tag></tag>
+   <elementGuidId>2e9c262f-e295-4aa4-a1be-207b00a809a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.justify-center.relative.h-screen</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5ee3d3c2-68c4-429f-aa93-2ff4424b4a72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex justify-center relative h-screen</value>
+      <webElementGuid>a453de2a-e50b-40e2-9fcd-0718d0c14ab0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LoginIf you have a sahayya.com email ID, Log in with GoogleLog in with GoogleORIf you are a partner or do not have a sahayya.com email ID, Log in with your registered email ID and passwordEmail IDPasswordForgot PasswordLog in</value>
+      <webElementGuid>0bdefc39-81bc-4593-a4a7-b656a4d08344</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex justify-center relative h-screen&quot;]</value>
+      <webElementGuid>826e8aba-0afd-49e1-8f3d-807228e5a6d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]</value>
+      <webElementGuid>a6375362-7b81-40f3-ba16-55131ed5b448</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]</value>
+      <webElementGuid>18c2a629-3cc1-4118-a54a-74f21af1c880</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'LoginIf you have a sahayya.com email ID, Log in with GoogleLog in with GoogleORIf you are a partner or do not have a sahayya.com email ID, Log in with your registered email ID and passwordEmail IDPasswordForgot PasswordLog in' or . = 'LoginIf you have a sahayya.com email ID, Log in with GoogleLog in with GoogleORIf you are a partner or do not have a sahayya.com email ID, Log in with your registered email ID and passwordEmail IDPasswordForgot PasswordLog in')]</value>
+      <webElementGuid>5c30dc01-501d-4970-943a-23072088190e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

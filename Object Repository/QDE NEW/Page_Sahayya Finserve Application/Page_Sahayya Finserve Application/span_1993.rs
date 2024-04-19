@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_1993</name>
+   <tag></tag>
+   <elementGuidId>ef5e54d0-88f7-4226-b0d4-c110911d1342</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Request Highmark Score'])[1]/following::span[8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f38ce2d8-9c8d-4ed0-b680-8d76cc76d2bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-yearpicker-year</value>
+      <webElementGuid>ea64d913-8f4f-4c6d-8baa-2ec2813a740a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1993</value>
+      <webElementGuid>1e7a8e47-dca4-4734-8cfe-123b2ef5fadd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;p-datepicker p-component border p-2 rounded-lg border-inputBorderColor bg-white text-inputTextColor p-connected-overlay-enter-done&quot;]/div[@class=&quot;p-yearpicker&quot;]/span[@class=&quot;p-yearpicker-year&quot;]</value>
+      <webElementGuid>7ebcbd93-f181-484c-ac84-1140919c57c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Request Highmark Score'])[1]/following::span[8]</value>
+      <webElementGuid>03ee1e88-f386-442d-8d82-60c1fe4dc446</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='empty'])[3]/following::span[11]</value>
+      <webElementGuid>068abc65-3783-4a53-ab33-610ccaff5999</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1993']/parent::*</value>
+      <webElementGuid>be01a75a-5bcc-4fac-ad66-f7a46194c693</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[4]</value>
+      <webElementGuid>5bfabf64-47a0-4881-a1b4-ac7b7ed1f47c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '1993' or . = '1993')]</value>
+      <webElementGuid>957d091b-7c2c-4c1c-a91b-25a79e16dbee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

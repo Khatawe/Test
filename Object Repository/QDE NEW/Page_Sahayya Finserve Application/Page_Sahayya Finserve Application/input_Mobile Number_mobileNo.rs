@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Mobile Number_mobileNo</name>
+   <tag></tag>
+   <elementGuidId>1b0c546e-fab8-4e9e-9f6a-ebee90eb28ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='mobileNo']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;mobileNo&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>15e338b3-128b-4152-8a1c-61d85fb72151</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-inputtext p-component outline-none w-full h-fit px-2   </value>
+      <webElementGuid>6a7af589-78a3-40a3-9be8-f6456e6c7b7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>mobileNo</value>
+      <webElementGuid>193dae4a-0a2c-45bb-a69e-5c07c7aaab27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;w-full flex overflow-hidden bg-primary-sapphireBlue-100&quot;]/div[@class=&quot;bg-primary-sapphireBlue-100 max-w-328 m-auto flex-1 h-screen overflow-hidden p-3&quot;]/main[@class=&quot;overflow-auto&quot;]/div[1]/div[@class=&quot;flex flex-col gap-5 pb-3 screen-body-scroll-qde  h-screen&quot;]/div[@class=&quot;bg-white flex flex-col gap-3 p-5 rounded-xl&quot;]/div[@class=&quot;border border-primary-sapphireBlue-600  rounded-xl p-5 flex flex-col gap-3&quot;]/div[@class=&quot;-mx-5 px-5 py-3 border border-x-0&quot;]/div[@class=&quot;flex flex-col&quot;]/div[@class=&quot;flex flex-row gap-3 items-center&quot;]/div[@class=&quot;w-61&quot;]/div[@class=&quot;flex flex-col gap-1&quot;]/div[@class=&quot;text-left  text-xs  px-2  py-2  w-full   border   border-secondary-gray-300  rounded-md  outline-none  bg-white  focus:bg-white  focus:border-primary-sapphireBlue-600  focus:border  hover:bg-white  hover:border-primary-sapphireBlue-600  text-primary-ptext-1000  placeholder-secondary-gray-500  outline-none  bg-secondary-disabledBGColor  border-primary-gray-300  h-6    flex items-center !pt-0 !pl-0 !pb-0 !pr-0&quot;]/div[@class=&quot;group grid w-full&quot;]/input[@class=&quot;p-inputtext p-component outline-none w-full h-fit px-2&quot;]</value>
+      <webElementGuid>878ff9a2-aee7-49e3-907f-129caaa4e7c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='mobileNo']</value>
+      <webElementGuid>c771481c-1348-4187-b749-bd92805534bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/main/div/div[2]/div[3]/div/div[3]/div/div[2]/div/div/div/div[2]/input</value>
+      <webElementGuid>ccae007c-04db-4a3f-83ab-cb6e41e806df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/input</value>
+      <webElementGuid>e7150125-663b-4421-ae1e-f4c3a9f70272</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'mobileNo']</value>
+      <webElementGuid>582f21cb-9cce-4e68-a527-35be344e4203</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
